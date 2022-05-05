@@ -1,0 +1,590 @@
+{
+	"article": {
+		"modelNumber": "EGO51",
+		"articleNumber": "CN6865",
+		"locale": "en-US",
+		"brand": "REEBOK",
+		"country": null,
+		"updatedOn": "2019-07-07 01:09:47.917",
+		"ecom": {
+			"activity": null,
+			"ages": [],
+			"athletes": [],
+			"badge": "EXCLUSIVE",
+			"bestFor": [],
+			"ecomBrand": "Classics",
+			"campaignPLP": [],
+			"clearance": false,
+			"clicks3": null,
+			"clicks14": null,
+			"colors": [
+				{
+					"value": "Beige"
+				}
+			],
+			"comingSoonSignup": false,
+			"customizable": false,
+			"defaultColor": "Light Sand / Wht / Lemon / Grey",
+			"fitbarPosition": null,
+			"flashProduct": false,
+			"frequency": null,
+			"functions": [],
+			"gender": "M",
+			"genderSub": null,
+			"hashtag": [],
+			"hypeProduct": null,
+			"maxQuantity": 12,
+			"miInspirationName": null,
+			"miPdpBackgroundImage": null,
+			"miQuickBuy": null,
+			"miRecipeUrl": null,
+			"miSearchSizes": [],
+			"miTeamCountries": [],
+			"miBnmCountries": [],
+			"onlineFrom": "2019-03-31 22:00:00.0",
+			"onlineTo": "2029-12-30 22:00:00.0",
+			"outlet": false,
+			"pageKeywords": [],
+			"partners": [],
+			"pdpCallout": null,
+			"pdpContent": null,
+			"pdpModel": null,
+			"personalizable": false,
+			"previewTo": null,
+			"productDivision": "Shoes",
+			"productDivisions": [
+				{
+					"value": "Shoes"
+				}
+			],
+			"productFamily": [
+				{
+					"value": "Lifestyle"
+				}
+			],
+			"productFilter": [
+				{
+					"value": "standard"
+				}
+			],
+			"productFit": null,
+			"productLines": [
+				{
+					"value": "Club C"
+				}
+			],
+			"productType": [],
+			"sales3": null,
+			"sales14": null,
+			"searchableIfUnavailable": false,
+			"shippingOn": null,
+			"sizeChart": [
+				{
+					"value": "men-shoes"
+				}
+			],
+			"soldout": false,
+			"sports": [
+				{
+					"value": "Court"
+				}
+			],
+			"surface": [],
+			"taxClass": "PC040147",
+			"teamkits": null,
+			"teams": [],
+			"teamwear": null,
+			"technologies": [],
+			"template": null,
+			"type": null,
+			"width": null,
+			"preOrderFlag": false,
+			"headline": null,
+			"eComUrls": [
+				{
+					"value": "https://www.reebok.com/us/club-c-85/CN6865.html"
+				}
+			],
+			"dynamicPricing": false,
+			"newArrivals": null,
+			"comments": [],
+			"campaignComments": [],
+			"channelExclusions": [],
+			"campaignExclusions": [],
+			"countryOfOrigin": null,
+			"hiddenCampaigns": [
+				{
+					"value": "Sitewide Products"
+				}
+			],
+			"updatedOn": "2019-07-07 01:09:47.917"
+		},
+		"ecomCareInstruction": null,
+		"ecomSpecification": {
+			"productFit": [],
+			"sleeveLength": [],
+			"baseMaterial": [],
+			"pattern": [],
+			"backLength": [],
+			"lining": [],
+			"pantLength": [],
+			"rise": [],
+			"neckline": [],
+			"support": [],
+			"designFeature": [],
+			"strap": [],
+			"closure": [],
+			"width": [],
+			"dimensions": [],
+			"capacity": [],
+			"compatibility": [],
+			"legalCertNo": null,
+			"legalCertValidFrom": null,
+			"legalCertValidTo": null,
+			"legalCountryOfOrigin": null,
+			"legalManufName": null,
+			"legalManufAddress": null,
+			"compareOutsoleTechnology": [],
+			"compareUpperTechnology": [],
+			"compareWeight": [],
+			"updatedOn": "2019-06-04 01:09:43.322"
+		},
+		"ecomSort": {
+			"sort1": "50",
+			"sort2": "50",
+			"sort3": "50",
+			"sort4": "50",
+			"sort5": "50",
+			"sort6": "50",
+			"sort7": "50",
+			"sort8": "50",
+			"sort9": "50",
+			"sort10": "50",
+			"sort11": "50",
+			"sort12": "50",
+			"sort13": "50",
+			"sort14": "50",
+			"sort15": "50",
+			"sort16": "50",
+			"sort17": "50",
+			"sort18": "50",
+			"sort19": "50",
+			"sort20": "50",
+			"updatedOn": "2019-06-04 01:09:43.322"
+		},
+		"ecomPrice": {
+			"standardPrice": "75.00",
+			"salesPrice": null,
+			"vipSalesPrice": null,
+			"salesPercentage": null,
+			"vipSalesPercentage": null,
+			"currency": "USD",
+			"price": null,
+			"updatedOn": "2019-06-09 12:03:20.654"
+		},
+		"ecomSkus": [
+			{
+				"ean": "4061617960596",
+				"upc": "192612729056",
+				"srcSizeCD3": "510",
+				"localSize": {
+					"displaySize": "3.5",
+					"literalSize": "3.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961746",
+				"upc": "192612729124",
+				"srcSizeCD3": "520",
+				"localSize": {
+					"displaySize": "4",
+					"literalSize": "4",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961708",
+				"upc": "192612729087",
+				"srcSizeCD3": "530",
+				"localSize": {
+					"displaySize": "4.5",
+					"literalSize": "4.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961753",
+				"upc": "192612729131",
+				"srcSizeCD3": "540",
+				"localSize": {
+					"displaySize": "5",
+					"literalSize": "5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961838",
+				"upc": "192612858008",
+				"srcSizeCD3": "550",
+				"localSize": {
+					"displaySize": "5.5",
+					"literalSize": "5.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617960602",
+				"upc": "192612729063",
+				"srcSizeCD3": "560",
+				"localSize": {
+					"displaySize": "6",
+					"literalSize": "6",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617960541",
+				"upc": "192612729001",
+				"srcSizeCD3": "570",
+				"localSize": {
+					"displaySize": "6.5",
+					"literalSize": "6.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961722",
+				"upc": "192612729100",
+				"srcSizeCD3": "580",
+				"localSize": {
+					"displaySize": "7",
+					"literalSize": "7",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961777",
+				"upc": "192612857940",
+				"srcSizeCD3": "590",
+				"localSize": {
+					"displaySize": "7.5",
+					"literalSize": "7.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961821",
+				"upc": "192612857995",
+				"srcSizeCD3": "600",
+				"localSize": {
+					"displaySize": "8",
+					"literalSize": "8",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961784",
+				"upc": "192612857957",
+				"srcSizeCD3": "610",
+				"localSize": {
+					"displaySize": "8.5",
+					"literalSize": "8.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617960565",
+				"upc": "192612729025",
+				"srcSizeCD3": "620",
+				"localSize": {
+					"displaySize": "9",
+					"literalSize": "9",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961715",
+				"upc": "192612729094",
+				"srcSizeCD3": "630",
+				"localSize": {
+					"displaySize": "9.5",
+					"literalSize": "9.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961692",
+				"upc": "192612729070",
+				"srcSizeCD3": "640",
+				"localSize": {
+					"displaySize": "10",
+					"literalSize": "10",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617960589",
+				"upc": "192612729049",
+				"srcSizeCD3": "650",
+				"localSize": {
+					"displaySize": "10.5",
+					"literalSize": "10.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961814",
+				"upc": "192612857988",
+				"srcSizeCD3": "660",
+				"localSize": {
+					"displaySize": "11",
+					"literalSize": "11",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961807",
+				"upc": "192612857971",
+				"srcSizeCD3": "670",
+				"localSize": {
+					"displaySize": "11.5",
+					"literalSize": "11.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961760",
+				"upc": "192612854024",
+				"srcSizeCD3": "680",
+				"localSize": {
+					"displaySize": "12",
+					"literalSize": "12",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961739",
+				"upc": "192612729117",
+				"srcSizeCD3": "690",
+				"localSize": {
+					"displaySize": "12.5",
+					"literalSize": "12.5",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617960572",
+				"upc": "192612729032",
+				"srcSizeCD3": "700",
+				"localSize": {
+					"displaySize": "13",
+					"literalSize": "13",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617960558",
+				"upc": "192612729018",
+				"srcSizeCD3": "720",
+				"localSize": {
+					"displaySize": "14",
+					"literalSize": "14",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"ean": "4061617961791",
+				"upc": "192612857964",
+				"srcSizeCD3": "740",
+				"localSize": {
+					"displaySize": "15",
+					"literalSize": "15",
+					"retailInStock": false
+				},
+				"sellable": true,
+				"offline": false,
+				"updatedOn": "2019-06-04 01:09:43.322"
+			}
+		],
+		"catalog": {
+			"acsModelName": null,
+			"b2cModelName": "Club C 85",
+			"b2cCopyShort": "'80s tennis-inspired sneakers with an all-leather upper",
+			"b2cCopy": "The court-inspired Club C shoes debuted in 1985. Today's version feature a clean, classic design with a supple all-leather build. These men's shoes have a flat-bottom outsole with a retro look.",
+			"b2bCopyShort": "'80s tennis-inspired sneakers with an all-leather upper",
+			"b2bCopy": "-Two-tone striped webbing on the tongue and heel added alongside a tumbled leather upper for a classic twist on the timeless Club C. -Leather upper. -High abrasion rubber outsole adds durable responsiveness. -Removable EVA foam sockliner accommodates orthotics.",
+			"materialComposition": null,
+			"materialConstruction": null,
+			"bullets1": "Leather upper",
+			"bullets2": null,
+			"bullets3": "Removable EVA foam sockliner accommodates orthotics",
+			"bullets4": "Durable rubber outsole",
+			"bullets5": null,
+			"bullets6": null,
+			"bullets7": "Imported",
+			"bulletMaterial": null,
+			"bulletWeight": null,
+			"bulletMeasurements": null,
+			"bulletFit": null,
+			"updatedOn": "2019-06-25 01:13:34.852"
+		},
+		"assets": [
+			{
+				"viewGroup": null,
+				"view": "Front Side Lateral View",
+				"assetImage": {
+					"width": 2400,
+					"height": 2400,
+					"bgColor": null,
+					"representation": "Standard"
+				},
+				"assetCategory": "Photography",
+				"imageStyle": "Standard",
+				"assetModel": {
+					"waist": null,
+					"chest": null,
+					"height": null,
+					"productSize": null
+				},
+				"pairedArticles": null,
+				"assetVideo": {
+					"fileSize": 0
+				},
+				"publicId": "85e4fbe17623484cb989a9ac002200e5_9366",
+				"defaultAlias": "CN6865_01_standard.jpg?ts=20190308051253",
+				"sortOrder": 0,
+				"usage": [
+					"pdp",
+					"plp"
+				],
+				"assetHref": "https://assetmanagerpim-res.cloudinary.com/images/85e4fbe17623484cb989a9ac002200e5_9366/CN6865_01_standard.jpg",
+				"usageTerms": "eCommerce",
+				"assetType": "image",
+				"updatedOn": "2019-06-04 01:09:43.322"
+			},
+			{
+				"viewGroup": null,
+				"view": "None",
+				"assetImage": {
+					"width": 1920,
+					"height": 1080,
+					"bgColor": null,
+					"representation": "On Model"
+				},
+				"assetCategory": "Video",
+				"imageStyle": "On Model",
+				"assetModel": {
+					"waist": 79,
+					"chest": 91,
+					"height": 180,
+					"productSize": "620"
+				},
+				"pairedArticles": [
+					"DT8135"
+				],
+				"assetVideo": {
+					"fileSize": 0
+				},
+				"publicId": "9ee8ee291e934dd38c70aa0a003454a8_d98c",
+				"defaultAlias": "CN6865_product_video.mp4?ts=20190308051253",
+				"sortOrder": 8,
+				"usage": [
+					"pdp"
+				],
+				"assetHref": "https://assetmanagerpim-res.cloudinary.com/videos/9ee8ee291e934dd38c70aa0a003454a8_d98c/CN6865_product_video.mp4",
+				"usageTerms": "eCommerce",
+				"assetType": "video",
+				"updatedOn": "2019-06-04 01:09:43.322"
+			}
+		],
+		"productDivision": {
+			"code": "1",
+			"description": "FOOTWEAR"
+		},
+		"rating": null,
+		"ecomPartner": {
+			"articleLive": true,
+			"retailIntroDate": null,
+			"retailExitDate": null,
+			"partnerPrograms": null,
+			"marketPlaces": [
+				"Shop"
+			],
+			"marketId": "us"
+		}
+	},
+	"articleUpdateInfo": {
+		"ecom": true,
+		"ecomCareInstruction": false,
+		"ecomSpecification": false,
+		"ecomSort": false,
+		"ecomPrice": false,
+		"ecomSkus": false,
+		"catalog": false,
+		"assets": false
+	}
+}
